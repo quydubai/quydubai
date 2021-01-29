@@ -1,4 +1,5 @@
 ### Hi fellows 👋
+<img src="https://user-images.githubusercontent.com/78160443/106277549-e81a6a00-626b-11eb-9b9d-a18981369b54.gif"/>
 
 - 🔭 I’m currently working on [J2TeamNNL]
 - 💬 Ask me about every thing I learned
