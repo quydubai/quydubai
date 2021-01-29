@@ -116,7 +116,7 @@ Sublime Text             47 mins             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img align="left" src="https://github-readme-stats-git-master.j2teamnnl.vercel.app/api?username=J2TeamNNL&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats-git-master.j2teamnnl.vercel.app/api?username=quydubai&show_icons=true&hide_border=true" />
 
 
 [J2TeamNNL]: https://j2teamnnl.com/
