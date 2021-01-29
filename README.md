@@ -1,10 +1,40 @@
-### Hi fellows 👋
 <img src="https://user-images.githubusercontent.com/78160443/106277549-e81a6a00-626b-11eb-9b9d-a18981369b54.gif"/>
 
-- 🔭 I’m currently working on [J2TeamNNL]
-- 💬 Ask me about every thing I learned
-- 📫 How to reach me: [Facebook]
-- ⚡ Fun fact: I share... a lot!
+
+<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+</em></p>
+
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
+</br></br>
+<h2>💻 Some stats 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
+
+⭐️ From [QuyDubai](https://www.facebook.com/Tzuyxz/) inspired by [Quý Dubai](https://www.facebook.com/HuynhNgocQuyProfile/)
 
 
 ### Spotify Playing 🎧
@@ -33,29 +63,6 @@
 
 <br>
 <br>
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Việc đầu tiên khi sử dụng công nghệ mới](https://j2teamnnl.blogspot.com/2020/07/viec-au-tien-khi-su-dung-cong-nghe-moi.html)
-- [Lập trình viên có "sướng"?](https://j2teamnnl.blogspot.com/2020/03/lap-trinh-vien-co.html)
-- [Cái chết của chữ Đ](https://j2teamnnl.blogspot.com/2020/01/cai-chet-cua-chu.html)
-- [Bạn có đang lướt Facebook hiệu quả và khoa học?](https://j2teamnnl.blogspot.com/2019/08/ban-co-ang-luot-web-hieu-qua-va-khoa-hoc.html)
-- [Sau 1 vài ngày mất tích...](https://j2teamnnl.blogspot.com/2019/08/sau-1-vai-ngay-mat-tich.html)
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://j2teamnnl.blogspot.com)
-
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Giới thiệu CLB Lập trình](https://www.youtube.com/watch?v=JL6Rnav6cwQ)
-- [Phiên bản 3](https://www.youtube.com/watch?v=4mnEEnLgr2E)
-- [CLB Lập trình BKACAD](https://www.youtube.com/watch?v=qBt6Z4il53Y)
-- [Tìm bài đăng của 1 người bất kỳ](https://www.youtube.com/watch?v=PyvfvB-l7LA)
-- [Filter Photo](https://www.youtube.com/watch?v=5vnjtl5S0Ig)
-<!-- YOUTUBE:END -->
 
 ---
 ### Development Stats
