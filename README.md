@@ -34,4 +34,4 @@ const aboutMe = {
 
 ---
 
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️ From [QuyDubai](https://www.facebook.com/Tzuyxz/) inspired by [Quý Dubai](https://www.facebook.com/HuynhNgocQuyProfile/)
