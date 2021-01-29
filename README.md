@@ -1,4 +1,4 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<img src="https://user-images.githubusercontent.com/78160443/106277549-e81a6a00-626b-11eb-9b9d-a18981369b54.gif"/>
 
 
 <p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
